@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BarcodeReader</string>
+    <string name="process">Process</string>
+    <string name="barcode">Barcode</string>
+    <string name="generate_bar_code">Generate QR code</string>
+    <string name="enter_what_to_save">Enter what to save</string>
+    <string name="create_bar_code">Create Bar code</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="qr_code_scanner">QR CODE SCANNER</string>
+    <string name="file_exist">File Name is already exist. Please choose a different file name</string>
+
+    <string name="file_name_select">File Name</string>
+    <string name="place_the_qr_code_inside_the_box">Place the QR code inside the box</string>
+</resources>

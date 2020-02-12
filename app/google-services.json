@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313157924159",
+    "firebase_url": "https://mlkittesting-ef377.firebaseio.com",
+    "project_id": "mlkittesting-ef377",
+    "storage_bucket": "mlkittesting-ef377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313157924159:android:523ee1d6268d17ae048f8a",
+        "android_client_info": {
+          "package_name": "com.triangle.barcodereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313157924159-o94ss7vf1bh5t8117oqveqk8oqs3i8lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.triangle.barcodereader",
+            "certificate_hash": "b83ec915a54d07ab3c4d906c6d6bfe32a8967d5e"
+          }
+        },
+        {
+          "client_id": "313157924159-g54gj5gqo450fd7qsod4j8419coi17ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsE7rZVpq2VYONW04C4bLBzXcZzoT5KCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313157924159-g54gj5gqo450fd7qsod4j8419coi17ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
